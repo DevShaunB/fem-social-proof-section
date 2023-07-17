@@ -1,3 +1,22 @@
+/* VARIABLES */
+
+:root {
+  /* COLORS */
+
+  /* PRIMARY */
+
+  --clr-magenta-700: 300 43% 22%;
+  --clr-pink-300: 333 80% 67%;
+
+  /* NEUTRAL */
+
+  --clr-magenta-400: 303 10% 53%;
+  --clr-magenta-50: 300 24% 96%;
+  --clr-white: 0, 0%, 100%;
+}
+
+/* RESET */
+
 *,
 *::before,
 *::after {
