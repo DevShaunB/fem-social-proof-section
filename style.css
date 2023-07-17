@@ -60,3 +60,16 @@ ul {
   white-space: nowrap;
   border-width: 0;
 }
+
+/* BASE */
+
+body {
+  font-family: var(--ff-sans);
+  padding: 5.125em 1.5em 6.1875em;
+}
+
+.container {
+  width: 100%;
+  max-width: 20.4375em;
+  margin-inline: auto;
+}
