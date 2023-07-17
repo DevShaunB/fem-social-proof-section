@@ -76,6 +76,8 @@ body {
 
 /* MAIN */
 
+/* INFO SECTION */
+
 .info {
   margin-bottom: 2.4375em;
   text-align: center;
@@ -94,4 +96,34 @@ body {
   letter-spacing: -0.026em;
   margin-top: 1.21em;
   color: hsl(var(--clr-magenta-400));
+}
+
+/* RATINGS SECTION */
+
+.ratings {
+  margin-bottom: 3.0625em;
+}
+
+.ratings__item {
+  background-color: hsl(var(--clr-magenta-50));
+  margin-bottom: 1em;
+  border-radius: 0.5em;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 1em;
+  padding: 1em;
+}
+
+.ratings__stars {
+  display: flex;
+  gap: 0.5em;
+}
+
+.ratings__text {
+  font-size: 1.0625rem;
+  font-weight: var(--fw-medium);
+  color: hsl(var(--clr-magenta-700));
 }
