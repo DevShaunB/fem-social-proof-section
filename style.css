@@ -127,3 +127,48 @@ body {
   font-weight: var(--fw-medium);
   color: hsl(var(--clr-magenta-700));
 }
+
+/* REVIEWS SECTION */
+
+.reviews__item {
+  background-color: hsl(var(--clr-magenta-700));
+  color: hsl(var(--clr-magenta-50));
+  margin-bottom: 1em;
+  padding: 2.5em 2em 2em;
+  border-radius: 0.5em;
+}
+
+.reviews__item:last-of-type {
+  margin-bottom: 0;
+}
+
+.reviews__user {
+  display: flex;
+  align-items: center;
+  gap: 1.44em;
+  margin-bottom: 1.69em;
+}
+
+.reviews__user-img-wrapper {
+  width: 2.5em;
+  height: 2.5em;
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+.reviews__user-name {
+  font-size: 1.0625rem;
+}
+
+.reviews__user-status {
+  font-weight: var(--fw-medium);
+  letter-spacing: 0.0219em;
+  color: hsl(var(--clr-pink-300));
+  margin-top: 0.3125em;
+}
+
+.reviews__text {
+  font-size: 1.0625rem;
+  line-height: 1.3;
+  letter-spacing: -0.0088em;
+}
