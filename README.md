@@ -34,6 +34,8 @@ Users should be able to:
 
 ### Links
 
+- Solution URL: [https://www.frontendmentor.io/solutions/social-proof-section-using-css-grid-and-flexbox-5eeZQmK9hG](https://www.frontendmentor.io/solutions/social-proof-section-using-css-grid-and-flexbox-5eeZQmK9hG)
+
 - Live Site URL: [https://devshaunb.github.io/fem-social-proof-section/](https://devshaunb.github.io/fem-social-proof-section/)
 
 ## Reference
